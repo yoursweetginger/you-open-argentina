@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://argentina.you-open.com/sitemap
